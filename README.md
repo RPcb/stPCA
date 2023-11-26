@@ -23,6 +23,6 @@ b. No install time is needed.
 
 3. sample codes
 
-I. For Lorenz model simulation, run "main_Lorenz_stPCA_PCA";
+I. For coupled-Lorenz model simulation, run "main_Lorenz_stPCA_PCA";
 
 II. For multiple-nodes model simulation, run "main_MultipleNodes_stPCA".
