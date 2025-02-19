@@ -1,0 +1,66 @@
+itemid,label/Index,LB,UB,Unit,mean
+50868,Anion Gap,8,16,mEq/L,12
+50882,Bicarbonate,22,28,mEq/L,25
+50902,Chloride,100,112,mEq/L,106
+50912,Creatinine,0.1,1.3,mg/dL,0.7
+50931,Glucose,70,105,mg/dL,87.5
+50960,Magnesium,1.6,2.6,mg/dL,2.1
+50971,Potassium,3.5,5.3,mEq/L,4.4
+50983,Sodium,135,148,mEq/L,141.5
+51006,Urea Nitrogen,7,20,mg/dL,13.5
+51221,Hematocrit,32,54,%,43
+51222,Hemoglobin,11,17.2,g/dL,14.1
+51248,MCH,27,31,pg,29
+51249,MCHC,32,36,%,34
+51250,MCV,70,100,fL,85
+51265,Platelet Count,150,450,K/uL,300
+51277,RDW,11.5,14.5,%,13
+51279,Red Blood Cells,4.1,6.1,m/uL,5.1
+51301,White Blood Cells,4,15,K/uL,9.5
+198,GCS Total,15,15,points,15
+211,Heart Rate,60,100,BPM,80
+455,NBP [Systolic],90,120,mmHg,105
+456,NBP Mean,70,100,mmHg,85
+618,Respiratory Rate,12,20,BPM,16
+646,SpO2,95,100,%,97.5
+677,Temperature C (calc),36.1,37.2,Deg. C,36.65
+678,Temperature F,97,99,Deg. F,98
+8441,NBP [Diastolic],60,80,mmHg,70
+781,BUN (6-20),6,20,#N/A,13
+787,Carbon Dioxide,35,45,#N/A,40
+813,Hematocrit,32,54,%,43
+814,Hemoglobin,11,17.2,gm/dl,14.1
+833,RBC,4.1,6.1,/mic l,5.1
+861,"WBC (4-11,000)",4,11,#N/A,7.5
+786,Calcium (8.4-10.2),8.4,10.2,mg/dl,9.3
+827,Phosphorous(2.7-4.5),2.7,4.5,mEq/L,3.6
+50868,Anion Gap,8,16,mEq/L,12
+50882,Bicarbonate,22,28,mEq/L,25
+50893,"Calcium, Total",8.5,10.5,mg/dL,9.5
+50902,Chloride,96,106,mEq/L,101
+50912,Creatinine,0.5,1.2,mg/dL,0.85
+50931,Glucose,70,100,mg/dL,85
+50960,Magnesium,1.7,2.2,mg/dL,1.95
+50970,Phosphate,2.5,4.5,mg/dL,3.5
+50971,Potassium,3.5,5,mEq/L,4.25
+50983,Sodium,135,145,mEq/L,140
+51006,Urea Nitrogen,7,20,mg/dL,13.5
+51221,Hematocrit,32,54,%,43
+51222,Hemoglobin,11,17.2,g/dL,14.1
+51248,MCH,27,31,pg,29
+51249,MCHC,32,36,%,34
+51250,MCV,70,100,fL,85
+51265,Platelet Count,150,450,K/uL,300
+51274,PT,11,13.5,seconds,12.25
+51277,RDW,11.5,14.5,%,13
+51279,Red Blood Cells,4.1,6.1,m/uL,5.1
+51301,White Blood Cells,4,15,K/uL,9.5
+220045,Heart Rate,60,100,beats/min,80
+220179,Non Invasive Blood Pressure systolic,90,120,mmHg,105
+220180,Non Invasive Blood Pressure diastolic,60,80,mmHg,70
+220181,Non Invasive Blood Pressure mean,70,100,mmHg,85
+220210,Respiratory Rate,12,20,breaths/min,16
+220277,O2 saturation pulseoxymetry,95,100,%,97.5
+223761,Temperature Fahrenheit,96.8,100.4,¡F,98.6
+226253,SpO2 Desat Limit,90,94,%,92
+227443,HCO3 (serum),22,28,mEq/L,25
